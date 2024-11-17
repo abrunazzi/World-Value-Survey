@@ -12,12 +12,8 @@ The analysis focuses on clustering countries based on indices like respect for a
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Data Sources](#data-sources)
-4. [Setup](#setup)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Future Work](#future-work)
-8. [Contact](#contact)
-9. [License](#license)
+4. [Results](#results)
+
 
 ---
 
@@ -54,8 +50,8 @@ The project integrates data from multiple sources:
 
 ---
 
-##Results
-###Key Findings
+## Results
+### Key Findings
 Clusters: Nine distinct clusters of countries were identified, each with unique cultural, economic, and political characteristics.
 Correlation with GDP:
 Progressive values (e.g., gender equality) are positively correlated with higher GDP per capita.
